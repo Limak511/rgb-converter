@@ -23,7 +23,7 @@ Convert 8-bit integers to normalized floats (rounded to 3 decimal places).
 ## How to Use
 
 ### Clone the repository:
-    git clone https://github.com/yourusername/RGBConverter.git
+    git clone https://github.com/Limak511/RGBConverter.git
 
 ### Navigate to the folder:
     cd RGBConverter
