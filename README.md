@@ -26,7 +26,7 @@ Convert 8-bit integers to normalized floats (rounded to 3 decimal places).
     git clone https://github.com/Limak511/rgb-converter.git
 
 ### Navigate to the folder:
-    cd rgb-converter
+    cd rgb-converter\RGBConverter
 
 ### Run the application:
     dotnet run
