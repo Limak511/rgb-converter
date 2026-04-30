@@ -23,10 +23,10 @@ Convert 8-bit integers to normalized floats (rounded to 3 decimal places).
 ## How to Use
 
 ### Clone the repository:
-    https://github.com/Limak511/rgb-converter.git
+    git clone https://github.com/Limak511/rgb-converter.git
 
 ### Navigate to the folder:
-    cd RGBConverter
+    cd rgb-converter
 
 ### Run the application:
     dotnet run
